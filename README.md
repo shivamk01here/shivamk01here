@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frontend Frameworks**
 
-- I have created [MockPrep- Ai evaluation Platform](mockprep.crazytechnology.in)
+- I have created [MockPrep- Ai evaluation Platform](https://mockprep.crazytechnology.in/)
 
 - 👨‍💻 All of my projects are available at [https://shivamk01here.github.io/](https://shivamk01here.github.io/)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shivam01here@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ubP-8axGY7gxu9K_Zvw0UEVQEyflbJAb/view?usp=sharing](https://drive.google.com/file/d/1ubP-8axGY7gxu9K_Zvw0UEVQEyflbJAb/view?usp=sharing)
+- 📄 Know about my experiences [Resume-link](https://drive.google.com/file/d/1ubP-8axGY7gxu9K_Zvw0UEVQEyflbJAb/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
