@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shivamk01here.github.io/](https://shivamk01here.github.io/)
 
-- 💬 Ask me about **Php, Laravel, React, Docker**
+- 💬 Ask me about **Php, Laravel, React, Docker, Nodejs**
 
 - 📫 How to reach me **shivam01here@gmail.com**
 
