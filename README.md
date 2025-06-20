@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Batchbox](https://github.com/shivamk01here/BatchBox-coaching-management-Saas)
 
-- 🌱 I’m currently learning **Frontend Frameworks**
+- 🌱 I’m currently learning **System Design**
 
 - I have created [MockPrep- Ai evaluation Platform](https://mockprep.crazytechnology.in/)
 
