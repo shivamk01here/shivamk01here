@@ -1,23 +1,39 @@
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
-<h3 align="center">A Full Stack developer from India</h3>
+<h3 align="center">Backend & DSA Enthusiast | Java, C++, Spring Boot | 5★ C++ @HackerRank</h3>
 
-- 🔭 I’m currently working on [Batchbox](https://github.com/shivamk01here/BatchBox-coaching-management-Saas)
+- 💡 **DSA Track Record:**  
+  -  Solved **1000+ DSA problems** across LeetCode, Codeforces, CodeChef, GeeksforGeeks  
+  -  **LeetCode:** [leetcode.com/u/shivam01here](https://leetcode.com/u/shivam01here) (700+ DSA problems)  
+  -  **Codeforces:** [codeforces.com/profile/shivam01here](https://codeforces.com/profile/shivam01here)  
+  -  **HackerRank C++:** <img src="https://img.shields.io/badge/HackerRank-5%E2%98%85%20C++-brightgreen" alt="5 Star C++" />
 
-- 🌱 I’m currently learning **System Design**
 
-- I have created [MockPrep- Ai evaluation Platform](https://mockprep.crazytechnology.in/)
+- 🏆 **Strengths:**  
+  -  **C++**: Strong focus on algorithms, multithreading, network programming (5★ HackerRank, built high-performance TCP server using C++11)  
+  -  **Java/Spring Boot**: Real-world expertise in scalable microservices, distributed systems, async workflows, event-driven design  
+  -  **System Design**: Experienced in migration from monoliths to microservices, implementing observability with Prometheus, Grafana, ELK.
 
-- 👨‍💻 All of my projects are available at [https://shivamk01here.github.io/](https://shivamk01here.github.io/)
 
-- 💬 Ask me about **Php, Laravel, React, Docker, Nodejs**
+- 📊 **DSA Progress Dashboard:**
+  ```
+  LeetCode: 700+ problems | Codeforces: Active | 5★ HackerRank (C++)
+  ```
+- 🔥 **Top Projects:**  
+  -  [BatchBox – SaaS for Coaching Institutes](https://github.com/shivamk01here/BatchBox-coaching-management-Saas): Class schedules, invoicing, analytics.  
+  -  [BookMyShow Clone (Distributed Ticketing Platform)](https://github.com/shivamk01here): Microservices, Kafka, Kubernetes, Prometheus  
+  -  [MockPrep-AI Evaluation](https://mockprep.crazytechnology.in/)  
+  -  [LinkedIn-like Platform]: Spring Boot, Kafka Streams, Neo4j, Redis
 
-- 📫 How to reach me **shivam01here@gmail.com**
+- 📂 **Portfolio:** [shivamk01here.github.io](https://shivamk01here.github.io/)
 
-- 📄 Know about my experiences [Resume-link](https://drive.google.com/file/d/1ubP-8axGY7gxu9K_Zvw0UEVQEyflbJAb/view?usp=sharing)
+- 📫 **Contact:** shivam01here@gmail.com  
+  [LinkedIn](https://linkedin.com/in/shivam01here) | [GitHub](https://github.com/shivamk01here)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+***
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+**Tech Stack:**  
+Spring Boot | Java | C++ | Docker | Kubernetes | AWS | Node.js | React | SQL | PostgreSQL | MySQL | MongoDB | Kafka | RabbitMQ | Redis | ELK | Prometheus | Git | CI/CD | DSA
+
+
+[1](https://github.com/shivamk01here/BatchBox-coaching-management-Saas)
+[2](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/92189926/669429b2-d83c-4241-89c6-7220cbe24313/Shivam_Kumar_Backend-2.pdf)
