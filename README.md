@@ -21,7 +21,7 @@
 
 ---
 
-### 🔥 High-Signal Projects
+### Projects
 
 * **[Tatkal: High-Concurrency Ticket Booking Engine](https://github.com/shivamk01here/Tatkal-High-Concurrency-Ticket-Booking-Engine)** <br>
   *Built with: Go, Redis, PostgreSQL, Kafka, Docker* <br>
@@ -35,9 +35,22 @@
   *Built with: Java NIO, OpenTelemetry, Vector Embeddings, GPT-4o* <br>
   Developed a Java NIO TCP server handling 10,000+ concurrent connections to ingest OpenTelemetry spans, using a ReAct-style LLM agent to reduce MTTR from ~45 min to under 60 seconds.
 
-* **[BatchBox – SaaS for Coaching Institutes](https://github.com/shivamk01here/BatchBox-coaching-management-Saas)** <br>
+* **[BatchBox – Backend for Coaching SaaS](https://github.com/shivamk01here/BatchBox-coaching-management-Saas)** <br>
   *Built with: Java, Spring Boot, PostgreSQL* <br>
   Architected a multi-tenant management platform handling complex class scheduling, automated invoicing, and performance analytics.
+
+---
+
+### Production SaaS & AI Tools
+
+* <img src="https://pitchslap.netlify.app/_next/image?url=%2Ficon.png&w=384&q=75" width="20" align="center"/> **[PitchSlap](https://pitchslap.netlify.app)** <br>
+  An AI-powered content roasting and optimization engine acting as an aggressive consulting layer for reality-checking pitches and text via LLM integrations.
+
+* <img src="https://hometutorconsultancy.com/images/logo/htc.png" width="20" align="center"/> **[Home Tutor Consultancy](https://hometutorconsultancy.com/)** <br>
+  A production full-stack platform managing tutor-student matching, lead generation, and operational workflows for a live consultancy business.
+
+* 🎓 **[TapClass](https://tapclass.netlify.app)** <br>
+  A live EdTech platform designed for coaching institutes to streamline scheduling, student management, and digital presence.
 
 ---
 
