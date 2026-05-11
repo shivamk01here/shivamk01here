@@ -50,7 +50,7 @@
   A production full-stack platform managing tutor-student matching, lead generation, and operational workflows for a live consultancy business.
 
 * 🎓 **[TapClass](https://tapclass.netlify.app)** <br>
-  A live EdTech platform designed for coaching institutes to streamline scheduling, student management, and digital presence.
+  A live EdTech platform designed for coaching institutes to streamline scheduling, student management, and digital attendence. 
 
 ---
 
